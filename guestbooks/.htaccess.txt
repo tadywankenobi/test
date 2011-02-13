@@ -1,0 +1,2 @@
+AddHandler x-mapp-php5 .php
+AddHandler x-httpd-php5 .php

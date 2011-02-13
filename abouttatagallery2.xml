@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery cellDimension="810" columns="5" zoomOutPerc="20" zoomInPerc="70" frameWidth="20" frameColor="0xFFFFFF" captionColor="0xFFFFFF" enableRightClickOpen="true" >
+
+
+<image>
+   <url>abouttatagallery/1st.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/2nd.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/3rd.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/4th.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/5th.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/6th.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/7th.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/8th.jpg</url>
+   <caption></caption>
+</image>
+
+<image>
+   <url>abouttatagallery/9th.jpg</url>
+   <caption></caption>
+</image>
+
+
+
+
+
+
+
+</gallery>

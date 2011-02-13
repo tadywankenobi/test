@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	thumbFrameWidth="0"
+	thumbHoverFrameWidth="4"
+	buttonBarPosition="OVERLAY"
+	imageScaleMode="FILL"
+	thumbNavStyle="NUMERIC"
+	captionPadding="10"
+	captionBackOpacity="0.5"
+	thumbPosition="BOTTOM"
+	captionPosition="OVERLAY_BOTTOM"
+	titlePosition="NONE"
+	stageBorder="10"
+	imageNavStyle="CURSOR"
+	stageVPadding="10"
+	stageHPadding="10"	
+	thumbRows="1"
+	thumbColumns="7"
+	frameWidth="0"
+	
+>
+
+
+<image imageURL="images/photoca/1. Poas Volcanoes Costa Rica.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Poas Volcanoes Costa Rica</caption>	
+</image>
+<image imageURL="images/photoca/2. A helping hand from the whole family.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A helping hand from the whole family</caption>	
+</image>
+<image imageURL="images/photoca/3. A giant of a farrier.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A giant of a farrier</caption>	
+</image>
+<image imageURL="images/photoca/4. Drenched to the bone.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Drenched to the bone</caption>	
+</image>
+<image imageURL="images/photoca/5. A lift to school.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A lift to school</caption>	
+</image>
+<image imageURL="images/photoca/6. Up and up in Costa Rica.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Up and up in Costa Rica</caption>	
+</image>
+<image imageURL="images/photoca/7. A boy gets his hair cut.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A boy gets his hair cut</caption>	
+</image>
+<image imageURL="images/photoca/8. Mise crosses with trembling legs.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Mise crosses with trembling legs</caption>	
+</image>
+<image imageURL="images/photoca/9. Allan, the best farrier on the tripjpg.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Allan, the best farrier on the trip</caption>	
+</image>
+<image imageURL="images/photoca/10. Don Alex, a master of horses.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Don Alex, a master of horses</caption>	
+</image>
+<image imageURL="images/photoca/11. Umberto on his mule.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Umberto on his mule</caption>	
+</image>
+<image imageURL="images/photoca/12. Helpers in Costa Rica.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Helpers in Costa Rica</caption>	
+</image>
+<image imageURL="images/photoca/13. Kids in the water.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Kids in the water</caption>	
+</image>
+<image imageURL="images/photoca/14. Cooling the horses down.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Cooling the horses down</caption>	
+</image>
+<image imageURL="images/photoca/15. WIth my five-day traveling companions.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>WIth my five-day traveling companions</caption>	
+</image>
+<image imageURL="images/photoca/16. With Lala before saying goodbye.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Lala before saying goodbye</caption>	
+</image>
+<image imageURL="images/photoca/18. A very tidy settlement in Nicaragua.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A very tidy settlement in Nicaragua</caption>	
+</image>
+<image imageURL="images/photoca/19. Waiting for better days.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Waiting for better days</caption>	
+</image>
+<image imageURL="images/photoca/20. Men lazing around.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Men lazing around</caption>	
+</image>
+<image imageURL="images/photoca/21. Staff at Hotel Los Balcones.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Staff at Hotel Los Balcones</caption>	
+</image>
+<image imageURL="images/photoca/22. A Christy Turlington look-alike.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A Christy Turlington look-alike</caption>	
+</image>
+<image imageURL="images/photoca/23. Ice cream for everyone!.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoca/24. Smiling Hondurian kids.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Smiling Hondurian kids</caption>	
+</image>
+<image imageURL="images/photoca/25. Family on bicycle.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Family on bicycle</caption>	
+</image>
+<image imageURL="images/photoca/26. A tomoato enterprise.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A tomoato enterprise</caption>	
+</image>
+
+<image imageURL="images/photoca/27. The morning after the machete incident.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The morning after the machete incident</caption>	
+</image>
+<image imageURL="images/photoca/28. Loyal DIANE employees.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Loyal DIANE employees</caption>	
+</image>
+<image imageURL="images/photoca/29. Christa & family.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Christa & family</caption>	
+</image>
+<image imageURL="images/photoca/30. A fellow equestrian.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A fellow equestrian</caption>	
+</image>
+<image imageURL="images/photoca/31. Longriders in El Salvador.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Longriders in El Salvador</caption>	
+</image>
+<image imageURL="images/photoca/32. Washing up.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Washing up</caption>	
+</image>
+<image imageURL="images/photoca/33. With Hugo & the Palomos.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Hugo & the Palomos</caption>	
+</image>
+<image imageURL="images/photoca/34. A 'coming of age' procession.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A 'coming of age' procession</caption>	
+</image>
+<image imageURL="images/photoca/35. With the Palomo Family.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With the Palomo Family</caption>	
+</image>
+<image imageURL="images/photoca/36. Getting ready after a restless night.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Getting ready after a restless night</caption>	
+</image>
+<image imageURL="images/photoca/37. little to do, even less to eat.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>little to do, even less to eat</caption>	
+</image>
+<image imageURL="images/photoca/38. Everybody is having an opinion.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Everybody is having an opinion</caption>	
+</image>
+<image imageURL="images/photoca/39. Siesta while the women work.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Siesta while the women work</caption>	
+</image>
+<image imageURL="images/photoca/40. With Guatemalan President (2004 –  2008 Oscar Berger.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Guatemalan President (2004 –  2008 Oscar Berger</caption>	
+</image>
+<image imageURL="images/photoca/41. With the Mendez Family.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With the Mendez Family</caption>	
+</image>
+<image imageURL="images/photoca/42. With the Cordova family.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With the Cordova family</caption>	
+</image>
+<image imageURL="images/photoca/43. A simple dwelling near Guanagazapa.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A simple dwelling near Guanagazapa</caption>	
+</image>
+<image imageURL="images/photoca/44. Ricki Bressani & family.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Ricki Bressani & family</caption>	
+</image>
+<image imageURL="images/photoca/45. Annie, Tirso Jose & Tirso.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Annie, Tirso Jose & Tirso</caption>	
+</image>
+<image imageURL="images/photoca/46. Typical buses in Guatemala.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Typical buses in Guatemala</caption>	
+</image>
+<image imageURL="images/photoca/47. Dressed up and nowhere to go.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Dressed up and nowhere to go</caption>	
+</image>
+<image imageURL="images/photoca/48. With Jose, Clara & Rodriquez.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Jose, Clara & Rodriquez</caption>	
+</image>
+<image imageURL="images/photoca/49. With Sonya Fernandez & Maria de Lourdes .jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Sonya Fernandez & Maria de Lourdes</caption>	
+</image>
+<image imageURL="images/photoca/50. Heading for the Mexican border.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Heading for the Mexican border</caption>	
+</image>
+
+<image imageURL="images/photoca/51. Getting ready to cross.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Getting ready to cross</caption>	
+</image>
+<image imageURL="images/photoca/52. Treacherous footing.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Treacherous footing</caption>	
+</image>
+<image imageURL="images/photoca/53. Tu Fein is keen to go.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Tu Fein is keen to go</caption>	
+</image>
+<image imageURL="images/photoca/54. In Mexico!.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>In Mexico!</caption>	
+</image>
+<image imageURL="images/photoca/55. Not knowing what's next.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Not knowing what's next</caption>	
+</image>
+
+</simpleviewergallery>

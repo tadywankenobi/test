@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery cellDimension="870" columns="4" zoomOutPerc="18" zoomInPerc="80" frameWidth="20" frameColor="0xFFFFFF" captionColor="0xFFFFFF" enableRightClickOpen="true" >
+<image>
+   <url>images/tall.jpg</url>
+    <caption><![CDATA[Captions can be HTML formatted. Supported tags are linebreaks<br> <u>underline</u>, <u><a href="http://www.google.com" target="_blank">hyperlinks</a></u>,  and <font color="#ffff00" size="40">font tags</font>. Italics and bold are not supported.]]></caption>
+</image>
+<image>
+   <url>images/tall.jpg</url>
+   <caption><![CDATA[Captions can be HTML formatted. Supported tags are linebreaks<br> <u>underline</u>, <u><a href="http://www.google.com" target="_blank">hyperlinks</a></u>,  and <font color="#ffff00" size="40">font tags</font>. Italics and bold are not supported.]]></caption>
+</image>
+<image>
+   <url>images/tall.jpg</url>
+   <caption><![CDATA[Captions can be HTML formatted. Supported tags are linebreaks<br> <u>underline</u>, <u><a href="http://www.google.com" target="_blank">hyperlinks</a></u>,  and <font color="#ffff00" size="40">font tags</font>. Italics and bold are not supported.]]></caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>4 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>  
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>5 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>6 ellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>7 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>8 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>9 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>10 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>11 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>12 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>13 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>14 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption>15 Pellentesque turpis leo, dignissim ac, vestibulum quis, hendrerit quis, enim.</caption>
+</image>
+</gallery>

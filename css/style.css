@@ -1,0 +1,118 @@
+@font-face {
+	font-family: 'RabioheadRegular';
+	src: url('font/rabiohead-webfont.eot');
+	src: local('?'), url('font/rabiohead-webfont.woff') format('woff'), url('font/rabiohead-webfont.ttf') format('truetype'), url('font/rabiohead-webfont.svg#webfontKbWW8cvd') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* 									{ margin: 0; padding: 0; }
+p                                   { margin: 0 0 10px 0; }
+html                                { overflow-y: scroll; }
+#page-wrap							{ width: 460px; margin:0; padding-bottom: 60px; } 
+#main-nav							 { margin:0 0 0 0; padding:2px 0 65px 0; }
+
+a									{ text-decoration: none; }
+img                                 { vertical-align: middle; }
+a img                               { border: 0; 180}
+ul									{ list-style: none;}
+h1                                  { margin: 0 0 10px 0; }
+
+
+h2.fontface {margin:0 0 20px 0;font: 36px/24px 'RabioheadRegular', Arial, sans-serif;letter-spacing: 0;color:#C93;}
+img.banner {margin:0 0 20px 0;padding:0;float:left;clear:both;display:block;border:solid 5px #443b29;width:950px}
+
+
+#left-nav {margin:0 20px 0 0;padding:0;float:left;display:inline-block;width:180px;list-style:none;}
+#left-nav li {margin:0 0 1px 0;padding:0;float:left;width:180px;}
+#left-nav li a {margin:0;padding:2px 2px 2px 10px;display:block;width:168px;background:#8b4e32;color:#fff;font-size:12px;} /*background: 544b39*/
+#left-nav li a:hover {background:#960;}
+#left-nav li a.on{background:#960;font-weight:bold;}
+
+#main-content {margin:0 0 20px 0;padding:0;float:left;display:inline-block;}
+/*#main-content p.quote {margin:15px 0;padding:0;float:left;background-color:#80735E;border:solid 5px #443b29;width:100%}*/
+#main-content p.quote {margin:15px 0;padding:0;float:left;width:100%}
+#main-content p.quote span {margin:10px auto; padding:0px;text-align:center;display:inline-block;font-weight:bold;width:100%;font-size:2.0em;font-weight:normal;font-style:italic;line-height:1.5em}
+#main-content a.img {margin:0;padding:0;border:solid 5px #443b29;float:left;}
+#main-content a.left{margin: 0 10px 0 0;float:left;display:inline; }
+#main-content a.right{margin: 0 0 0 10px;float:right;display:inline;}
+#main-content h2.title {float:left;margin:10px 5px;font-size:2.6em;font-weight: normal; color:#c93;font-family: 'RabioheadRegular', Arial, sans-serif;width:100%}
+
+.one-col {width:760px;}
+.one-col p.quote {width:650px;}
+.two-col {width:590px;}
+.two-col p.quote {width:580px;}
+
+
+.sidebar {margin:0;padding:0;float:right}
+.sidebar a.img {margin:0 0 5px 0;padding:0;border:solid 5px #443b29;float:left;clear:both}
+
+/* #main-content object {margin:0;padding:5px;border:solid 5px #443b29} */
+#main-content object {margin:0;padding:5px;background-color:#443b29;float:left;}
+#main-content p.caption {margin:0 auto 10px auto;padding:5px 0;width:100%;text-align: center; background-color:#443b29;}
+
+#main-content a {text-decoration:underline;color:#e0e0e0}
+
+#main-content .feature {background-color:#443b29;margin-bottom:15px;}
+#main-content .feature img {margin:0;padding:0;float:left;clear:both}
+#main-content .feature p {margin:5px;padding:0;clear:both;text-align: left;}
+#main-content .feature p a {clear:both;color:#960;text-decoration:none;}
+#main-content .feature p a:hover {color:#fff;text-decoration:underline;}
+#main-content .narrow img {padding:5px;}
+#main-content .narrow p.caption {width:280px}
+#main-content .left {margin-right:15px;padding:0;float:left;}
+#main-content .right {margin-left:15px;padding:0;float:right;}
+
+#main-content p.horse {float:left;width:143px;margin: 0 10px 0 0;background:#443B29}
+#main-content p.horse strong {float:left;margin:5px;font-size:2.6em;font-weight: normal; color:#c93;font-family: 'RabioheadRegular', Arial, sans-serif;}
+#main-content p.last {margin-right:0;}
+#main-content p.horse a {color:#fff;text-decoration:none;}
+#main-content p.horse a:hover strong {text-decoration:underline}
+#main-content p.horse img.hport {border:solid 6px #443B29;}
+#main-content p.horse span.caption {float:left;margin: 2px 5px;height:170px}
+
+#main-content p.spot {float:left;width:238px;margin: 0 15px 15px 0;background:#443B29}
+#main-content p.spot strong {float:left;margin:10px 5px;font-size:2.6em;font-weight: normal; color:#c93;font-family: 'RabioheadRegular', Arial, sans-serif;}
+#main-content p.spot img {border:solid 5px #443B29;}
+#main-content p.spot a {color:#fff;text-decoration:none;}
+#main-content p.spot a:hover strong {text-decoration:underline}
+#main-content p.spot span.caption {float:left;margin: 2px 5px;height:100px}
+
+#main-content div.textonly {padding:5px;width:420px}
+#main-content div.textonly a {color:#c93}
+
+#main-content .sponsors p.spot {padding:5px 10px;width:283px;min-height:165px}
+
+#main-content ul {list-style: disc;padding-left:15px;}
+
+#main-content .bottom a.img {margin:0 10px 10px 0;padding:0;border:solid 5px #443b29;float:left;}
+#main-content .bottom a.last {margin: 0 0 10px 0;}
+
+
+/* Main Navigation */
+
+ul.maindropdown                         { position: absolute;  color:#e6e6be; width:960px;}
+ul.maindropdown li                      { font-weight: bold; font-family: "Myriad Pro"; font-size:16px; float: left; text-align: center; padding:0 2px 0 0; position: relative; width:118px;}
+ul.maindropdown a:hover		            { color:#fff; }
+ul.maindropdown li a                    { display: block; padding: 10px 22px 10px 0; color:#e6e6be; position: relative; }
+ul.maindropdown li a:hover,
+ul.maindropdown li a.hover              { position: relative; }
+
+/* End Main Navigation */
+
+/* Tabs for Patrons page */
+.ui-tabs .ui-tabs-hide {display:none;}
+
+
+div#tabs ul {margin:0 0 20px 0;padding:0;list-style: none;float:left;width:100%}
+div#tabs ul li {list-style: none;float:left;padding-right:20px;font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#ffffff;}
+div#tabs ul li.ui-state-active a {color:#fff;text-decoration:none;font-weight:bold;} 
+div#tabs ul li a:hover {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#FFC; text-decoration:none;}
+
+div.homevid {float:left;text-align:center;background:#80735E;margin:36px 0 20px 0;padding:0;width:100%}
+div.homevid object, div.homevid embed {padding:10px;}
+
+
+/* End tabs */
+
+

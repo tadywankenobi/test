@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	thumbFrameWidth="0"
+	thumbHoverFrameWidth="4"
+	buttonBarPosition="OVERLAY"
+	imageScaleMode="FILL"
+	thumbNavStyle="NUMERIC"
+	captionPadding="10"
+	captionBackOpacity="0.5"
+	thumbPosition="BOTTOM"
+	captionPosition="OVERLAY_BOTTOM"
+	titlePosition="NONE"
+	stageBorder="10"
+	imageNavStyle="CURSOR"
+	stageVPadding="10"
+	stageHPadding="10"	
+	thumbRows="1"
+	thumbColumns="7"
+	frameWidth="0"
+	
+>
+
+
+<image imageURL="images/photoarg/arg1.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Tango in Buenos Aires</caption>	
+</image>
+<image imageURL="images/photoarg/arg4.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Drinking mate - a national institution</caption>	
+</image>
+<image imageURL="images/photoarg/arg6.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Marco & friend with horses at polo stables</caption>	
+</image>
+<image imageURL="images/photoarg/arg8.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Mancha & Gato in museum in Lujan</caption>	
+</image>
+<image imageURL="images/photoarg/arg11.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Mise had enough</caption>	
+</image>
+<image imageURL="images/photoarg/arg13.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A tired trio</caption>	
+</image>
+<image imageURL="images/photoarg/arg15.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A local radio station</caption>	
+</image>
+<image imageURL="images/photoarg/arg16.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Yellow Church in San Pedro Argentina</caption>	
+</image>
+<image imageURL="images/photoarg/arg19.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Miguel near Simoca</caption>	
+</image>
+<image imageURL="images/photoarg/arg23.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Gabriela</caption>	
+</image>
+<image imageURL="images/photoarg/arg26.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Girl in window shop in Salta</caption>	
+</image>
+<image imageURL="images/photoarg/arg34.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Getting a water-bag made</caption>	
+</image>
+<image imageURL="images/photoarg/arg38.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Josefina Leach</caption>	
+</image>
+<image imageURL="images/photoarg/arg40.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Looking at Tusa's wound with Caroline Leach</caption>	
+</image>
+<image imageURL="images/photoarg/arg42.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Arriving at the Argentina/Bolivian border</caption>	
+</image>
+<image imageURL="images/photoarg/arg2.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Supporting Argentina</caption>	
+</image>
+<image imageURL="images/photoarg/arg3.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Iller acts as guinea pig</caption>	
+</image>
+<image imageURL="images/photoarg/arg5.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Therapeutic Riding in Buenos Aires</caption>	
+</image>
+<image imageURL="images/photoarg/arg7.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Margarita Perkins with the 'first' Tusa</caption>	
+</image>
+<image imageURL="images/photoarg/arg9.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Ciro on horse with my first day's ride</caption>	
+</image>
+<image imageURL="images/photoarg/arg10.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The Marenco Family</caption>	
+</image>
+<image imageURL="images/photoarg/arg12.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Far from an ideal road</caption>	
+</image>
+<image imageURL="images/photoarg/arg14.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The Bechara Family</caption>	
+</image>
+<image imageURL="images/photoarg/arg17.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Two Argentina gentlemen</caption>	
+</image>
+<image imageURL="images/photoarg/arg18.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Shadows of a traveling trio</caption>	
+</image>
+<image imageURL="images/photoarg/arg20.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Jose (left) in Tucuman with family</caption>	
+</image>
+<image imageURL="images/photoarg/arg21.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A man on a Peruvian Paso</caption>	
+</image>
+<image imageURL="images/photoarg/arg22.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The Castellanos de Critto Family</caption>	
+</image>
+<image imageURL="images/photoarg/arg24.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Magdalena & family in Metan</caption>	
+</image>
+<image imageURL="images/photoarg/arg25.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Santiago & Florencia (left)</caption>	
+</image>
+<image imageURL="images/photoarg/arg27.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Los Lapachos residence</caption>	
+</image>
+<image imageURL="images/photoarg/arg28.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Caroline & Josefina</caption>	
+</image>
+<image imageURL="images/photoarg/arg29.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Los Lapachos trees</caption>	
+</image>
+<image imageURL="images/photoarg/arg30.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The Leach's dog with a story</caption>	
+</image>
+<image imageURL="images/photoarg/arg31.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The Leach Family</caption>	
+</image>
+<image imageURL="images/photoarg/arg32.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Orlaith & Jacinta</caption>	
+</image>
+<image imageURL="images/photoarg/arg33.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Spectacular colours outside Salta</caption>	
+</image>
+<image imageURL="images/photoarg/arg35.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Ernesto Day, Maria Ines & Manolo</caption>	
+</image>
+<image imageURL="images/photoarg/arg36.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Inauguration of Bible translated in to Wichi</caption>	
+</image>
+<image imageURL="images/photoarg/arg37.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Food prepared for hungry church-goers</caption>	
+</image>
+<image imageURL="images/photoarg/arg39.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Chito, my guide for half a day</caption>	
+</image>
+<image imageURL="images/photoarg/arg41.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With the Gendarmeria near the Bolivian border</caption>	
+</image>
+
+
+</simpleviewergallery>

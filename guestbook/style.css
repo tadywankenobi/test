@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: url(../images/mainbg.jpg) repeat-x #60533e;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #000;
+	font-size: 13px;
+	line-height: 18px;
+	margin: 0;
+	padding:0;
+}
+
+a:link {
+  border: none;	
+}
+
+
+a:link {
+color:#ffc;
+text-decoration:none;
+}
+
+a:visited {
+color:#ffc;
+text-decoration:none;
+}
+
+a:hover {
+color:#ffffff;
+text-decoration:none;
+}
+
+a:active {
+color:#ffffff;
+text-decoration:none;
+}
+
+
+link {
+  border: none;	
+}
+
+#wrapper {
+	width: 800px;
+	margin: auto;
+}
+
+#headerx {
+	width: 800px;;
+}
+
+#navigation {
+    width: 800px;
+	padding: 12px 0;
+	margin: 0;
+	}
+
+#contentx {
+	width: 800px;
+}
+
+.footerx {
+	padding: 10px 0;
+	background: #6c5e46;
+	clear: left;
+}
+
+#footerbase {
+	margin: auto;
+	width: 800px;
+}
+
+.column1 {
+	width: 159px;
+	padding: 5px 51px 0 0;
+	float: left;
+	
+}
+
+.column2 {
+	width: 181px;
+	padding: 5px 23px 0 0;
+	float: left;
+	height: 300px;
+}
+
+.column4 {
+	width: 181px;
+	padding: 5px 0 0 0;
+	float: left;
+	height: 300px;
+}
+
+#contentleft {
+	width: 470px;
+	padding: 10px 30px 0 0;
+	float: left;
+}
+
+#contentleft2 {
+	width: 470px;
+	padding: 10px 0 0 30px;
+	float: left;
+}
+
+#contentleftform {
+	width: 420px;
+	padding: 10px 0 0 80px;
+	float: left;
+}
+
+#formfield {
+	width: 390px;
+	padding: 10px;
+	background: #544c39;
+}
+
+
+#contentright {
+	width: 300px;
+	padding: 10px 0;
+	float:left;
+}
+/* Fonts */	
+
+.navfont {
+	font-family:"Myriad Pro",Tahoma, Geneva, sans-serif; 
+	font-size: 14px; 
+	color:#e6e6be; 
+	text-decoration:none; 
+	font-weight:bold; 
+	}
+	
+a.navfont:link {
+	font-family:"Myriad Pro",Tahoma, Geneva, sans-serif; 
+	font-size: 14px; 
+	color:#e6e6be; 
+	text-decoration:none; 
+	font-weight:bold; 
+	}
+	
+a.navfont:hover {
+	font-family:"Myriad Pro",Tahoma, Geneva, sans-serif; 
+	font-size: 14px; 
+	color:#FFF; 
+	text-decoration:none; 
+	font-weight:bold; 
+	}
+	
+.headerfont1 {
+	font-family: "Myriad Pro",Tahoma, Geneva, sans-serif; 
+	font-size: 17px;
+	color: #cc9933;
+}
+
+.mainheader {
+    font-family: "Myriad Pro",Tahoma, Geneva, sans-serif; 
+	color: #cc9933;
+	padding: 0;
+	font-size: 24px;
+}
+
+.mainlink {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#dedea6; text-decoration:none;}
+a.mainlink:link {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#dedea6; text-decoration:none;}
+a.mainlink:hover {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#FFF; text-decoration:none;}
+
+.footertext {font-family:Tahoma, Geneva, sans-serif; font-size: 12px; color:#e6e6be;  text-decoration:none;}
+a.footertext:link {font-family:Tahoma, Geneva, sans-serif; font-size: 12px; color:#e6e6be;  text-decoration:none;}
+a.footertext:hover {font-family:Tahoma, Geneva, sans-serif; font-size: 12px; color:#FFF; text-decoration:none;}
+
+.patrontext {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#ffffff;  text-decoration:underline;}
+a.patrontext:link {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#ffffff;  text-decoration:underline;}
+a.patrontext:hover {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#FFC; text-decoration:none;}
+
+.pagetext {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#FC0;  text-decoration:none;}
+a.pagetext:link {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#FC0;  text-decoration:none;}
+a.pagetext:hover {font-family:Tahoma, Geneva, sans-serif; font-size: 13px; color:#F90; text-decoration:none;}
+
+.copyrighttext {
+	font-size: 11px;
+	color: #bbb4aa;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.videotext {
+	font-size: 10px;
+	color: #ffffff;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.maintextdetails {
+    font-family: Tahoma, Geneva, sans-serif;
+	color: #9ab893;
+	font-size: 12px;
+}
+
+.subtext {
+    font-family: Tahoma, Geneva, sans-serif;
+	color: #F60;
+	font-size: 12px;
+}
+	
+/* Alignments */	
+
+.mainimagepadtop {
+	padding-top: 10px;
+}
+
+#flashcontent {
+		height: 600px;
+		width: 800px;
+		margin: auto;

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	thumbFrameWidth="0"
+	thumbHoverFrameWidth="4"
+	buttonBarPosition="OVERLAY"
+	imageScaleMode="FILL"
+	thumbNavStyle="NUMERIC"
+	captionPadding="10"
+	captionBackOpacity="0.5"
+	thumbPosition="BOTTOM"
+	captionPosition="OVERLAY_BOTTOM"
+	titlePosition="NONE"
+	stageBorder="10"
+	imageNavStyle="CURSOR"
+	stageVPadding="10"
+	stageHPadding="10"	
+	thumbRows="1"
+	thumbColumns="7"
+	frameWidth="0"
+	
+>
+
+
+<image imageURL="images/photobol/Bol 1.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Our first stop in Bolivia</caption>	
+</image>
+<image imageURL="images/photobol/Bol 2.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A traditional Bolivian woman</caption>	
+</image>
+<image imageURL="images/photobol/Bol 3.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Shaving a rabbit in La Merced</caption>	
+</image>
+<image imageURL="images/photobol/Bol 4.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A very old Bolivian woman</caption>	
+</image>
+<image imageURL="images/photobol/Bol 5.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Tusa trails behind in the Altiplano</caption>	
+</image>
+
+<image imageURL="images/photobol/Bol 6.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Watching midday traffic in Bolivia</caption>	
+</image>
+
+<!--
+<image imageURL="images/photobol/Bol 7.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Kids happy to smile for the camera</caption>	
+</image>
+-->
+<image imageURL="images/photobol/Bol 8.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Not much exciting on the menu</caption>	
+</image>
+<image imageURL="images/photobol/Bol 9.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A welcome stream</caption>	
+</image>
+<image imageURL="images/photobol/Bol 10.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Ready to go again</caption>	
+</image>
+<image imageURL="images/photobol/Bol 11.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>34 kilometres to Camargo</caption>	
+</image>
+<image imageURL="images/photobol/Bol 12.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Reflections in beautiful surroundings</caption>	
+</image>
+<image imageURL="images/photobol/Bol 13.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A welcome break</caption>	
+</image>
+<image imageURL="images/photobol/Bol 14.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A dust storm in Tola Polca</caption>	
+</image>
+<image imageURL="images/photobol/Bol 15.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Meeting cyclists going in the opposite direction</caption>	
+</image>
+<image imageURL="images/photobol/Bol 16.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A local shop</caption>	
+</image>
+
+<!-- 
+<image imageURL="images/photoarg/Bol 17.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Leaving La Merced</caption>	
+</image>
+-->
+
+<image imageURL="images/photobol/Bol 18.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Shy girls minding sheep</caption>	
+</image>
+<image imageURL="images/photobol/Bol 19.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Vito and family</caption>	
+</image>
+<!--
+<image imageURL="images/photoarg/Bol 20.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>More mountains to conquer</caption>	
+</image>
+-->
+<image imageURL="images/photobol/Bol 21.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Another bus that had gone down</caption>	
+</image>
+<image imageURL="images/photobol/Bol 22.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Indian settlements in the Bolivian Altiplano</caption>	
+</image>
+<image imageURL="images/photobol/Bol 23.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A soccer match interrupted</caption>	
+</image>
+<image imageURL="images/photobol/Bol 24.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A lonesome donkey</caption>	
+</image>
+<image imageURL="images/photobol/Bol 25.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Kids returning from school</caption>	
+</image>
+<image imageURL="images/photobol/Bol 26.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Changing landscapes</caption>	
+</image>
+<image imageURL="images/photobol/Bol 27.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Margarita in El Puente</caption>	
+</image>
+<image imageURL="images/photobol/Bol 28.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A migrating family and their donkey</caption>	
+</image>
+<image imageURL="images/photobol/Bol 29.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Always looking for something to nibble</caption>	
+</image>
+<image imageURL="images/photobol/Bol 30.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>The face of poverty</caption>	
+</image>
+<image imageURL="images/photobol/Bol 31.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Mercedes and her boy in Padcoyo</caption>	
+</image>
+<image imageURL="images/photobol/Bol 32.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>An (unfriendly) Indian village in the valley</caption>	
+</image>
+<image imageURL="images/photobol/Bol 33.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Dora in Panduro</caption>	
+</image>
+<image imageURL="images/photobol/Bol 34.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Mise & Tusa alerted by something</caption>	
+</image>
+<image imageURL="images/photobol/Bol 35.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>On our way to Kuchu Ingenio</caption>	
+</image>
+<image imageURL="images/photobol/Bol 36.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Tusa in his corral in Tola Polca</caption>	
+</image>
+<image imageURL="images/photobol/Bol 37.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Looking back on the roadworks we just passed</caption>	
+</image>
+<image imageURL="images/photobol/Bol 38.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Curious llamas not far from Potosi</caption>	
+</image>
+<image imageURL="images/photobol/Bol 39.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Isolated, magnificent landscapes</caption>	
+</image>
+<image imageURL="images/photobol/Bol 40.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Luis (back) and Edgar (far right) outside Potosi</caption>	
+</image>
+<image imageURL="images/photobol/Bol 41.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>With Chacho (right front) & friends in La Paz</caption>	
+</image>
+<image imageURL="images/photobol/Bol 42.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>My first piranha!</caption>	
+</image>
+<image imageURL="images/photobol/Bol 43.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Swimming with piranhas</caption>	
+</image>
+<image imageURL="images/photobol/Bol 44.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Best transport in San Borga</caption>	
+</image>
+<image imageURL="images/photobol/Bol 45.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Wet grasslands in Beni</caption>	
+</image>
+<image imageURL="images/photobol/Bol 46.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>A family going places</caption>	
+</image>
+<image imageURL="images/photobol/Bol 47.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Siesta time</caption>	
+</image>
+<image imageURL="images/photobol/Bol 48.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Curios kids looking in to my tent</caption>	
+</image>
+<image imageURL="images/photobol/Bol 49.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Strength in numbers</caption>	
+</image>
+<image imageURL="images/photobol/bol_40a.jpg" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption>Unsaddling to cross the river</caption>	
+</image>
+
+<!--
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="images/photoarg/" thumbURL="thumbs/" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+
+-->
+
+</simpleviewergallery>
