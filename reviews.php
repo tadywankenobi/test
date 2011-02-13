@@ -136,4 +136,6 @@ A totally honest account of one woman's struggle to travel alone from South Amer
 	</div>
 
 </div>
+
+</div>
 <?php include('footer.php') ?>

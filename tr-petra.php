@@ -84,4 +84,6 @@ October 2010</p>
 	</div>
 
 </div>
+
+</div>
 <?php include('footer.php') ?>
